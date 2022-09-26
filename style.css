@@ -173,6 +173,9 @@ h4{
     font-weight: 400;
     padding-bottom: 10px;
 }
+#best{
+overflow:hiden;
+}
 
 /*footer1*/
 #footer1{
